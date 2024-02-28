@@ -3,3 +3,4 @@ image:
 vscode:
   extensions:
     - elixir-lsp.elixir-ls
+    - victorbjorklund.phoenix
